@@ -10,7 +10,7 @@
 
 
 # Description:
-This app creates a table of employees from randomuser.me in any length desired. The table has colums of employees' first name, last name, email address, phone number, and age.
+This app creates a table of employees from randomuser.me in any length desired. The table has colums of employee's first name, last name, email address, phone number, and age.
 
 # Technologies:
 * React
