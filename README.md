@@ -26,7 +26,7 @@ This app creates a table of employees from randomuser.me in any length desired. 
 
 * Github--dlivingston866
 
-* Github Pages 
+* Github Pages https://dlivingston866.github.io/automatic-palm-tree/
 
 
 
